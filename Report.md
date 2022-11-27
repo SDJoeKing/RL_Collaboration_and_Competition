@@ -48,7 +48,8 @@ The training with a single Agent solved the environment as reported, in episode 
 
 **From the figure of result below, it is evident that the episodes training required to achieve average score of +0.5 are 3933 episodes. The actual episodes used for training was approximately 3500**
 
- ![Training Results]()
+ ![Training Results](https://user-images.githubusercontent.com/69092110/204151277-08ea64f8-a94c-4a99-8462-4438fb744f59.png)
+
 
 
 ### Future improvements
