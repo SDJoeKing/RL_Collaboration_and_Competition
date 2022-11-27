@@ -1,15 +1,11 @@
-[//]: # (Image References)
-
-[image1]: https://user-images.githubusercontent.com/10624937/42135623-e770e354-7d12-11e8-998d-29fc74429ca2.gif "Trained Agent"
-[image2]: https://user-images.githubusercontent.com/10624937/42135622-e55fb586-7d12-11e8-8a54-3c31da15a90a.gif "Soccer"
+ 
 
 
 # Udacity DRL Project 3 -  Collaboration and Competition
 
 
 This is a deep reinforcement learning project with the [Tennis](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) environment, based on [Unity ML-Agents Toolkit](https://github.com/Unity-Technologies/ml-agents). The environment was compiled on toolkit version 0.4, provided by Udacity.
-
-![Trained Agent][image1]
+ 
 
 ### Environment introduction
 
